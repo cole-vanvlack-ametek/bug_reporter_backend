@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../bug_reporter_frontend"
+		}
+	],
+	"settings": {}
+}
